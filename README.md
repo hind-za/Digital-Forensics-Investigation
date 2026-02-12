@@ -72,12 +72,11 @@ Exemples d’outils abordés :
 | ------------ | ---------------------------------- |
 | Rapport      | Rapport complet de l’investigation |
 | Présentation | Support de présentation du projet  |
-| Challenges   | Rooms et laboratoires réalisés     |
-| Evidence     | Captures et preuves collectées     |
+| Challenges   | Rooms et laboratoires réalisés     |    
 
 ---
 
-## 🧠 Compétences acquises
+## Compétences acquises
 
 * Digital Forensics
 * Incident Response
@@ -89,7 +88,7 @@ Exemples d’outils abordés :
 
 ---
 
-## 📚 Conclusion
+## Conclusion
 
 Ce projet m’a permis d’acquérir une vision globale du processus d’investigation numérique et de comprendre comment les enquêteurs reconstruisent un incident de sécurité à partir de traces laissées sur un système informatique.
 
